@@ -58,7 +58,6 @@ body {
 }
 
 /* CONTENT STYLING */
-
 .flip-card-front,
 .flip-card-back {
   display: grid;
