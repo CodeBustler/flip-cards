@@ -1,3 +1,5 @@
-# flipCards
+# Flip Cards
+By using HTML & CSS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-31qu87)
+## Live 
+https://flip-cards-cb.netlify.app/
