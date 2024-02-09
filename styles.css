@@ -12,7 +12,7 @@ body {
 }
 
 h2{
-  margin-top:120px;
+  margin-top:50px;
 }
 
 /* CONTAINER FOR ALL CARDS */
@@ -26,7 +26,7 @@ h2{
   align-items: center;
   flex-wrap: wrap;
   gap: 30px;
-  margin-top:80px
+  margin-top:20px
 }
 
 /* ALL CARDS  */
